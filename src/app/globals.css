@@ -31,3 +31,11 @@ body {
     text-wrap: balance;
   }
 }
+.group:hover {
+  border-image: linear-gradient(90deg, #ff687f, #3ec8ff);
+  border-image-slice: 1;
+}
+
+.group:hover {
+  border-width: 3px; /* Adjust the border width as needed */
+}
